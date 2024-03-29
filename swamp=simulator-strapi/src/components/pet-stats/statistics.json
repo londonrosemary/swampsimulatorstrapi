@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_pet_stats_statistics",
+  "info": {
+    "displayName": "Statistics",
+    "icon": "heart"
+  },
+  "options": {},
+  "attributes": {
+    "Health": {
+      "type": "integer"
+    },
+    "Happiness": {
+      "type": "integer"
+    },
+    "Hunger": {
+      "type": "integer"
+    },
+    "Thirst": {
+      "type": "integer"
+    },
+    "Boredom": {
+      "type": "integer"
+    }
+  }
+}
